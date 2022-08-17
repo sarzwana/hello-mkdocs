@@ -4,12 +4,11 @@
 
 Penjanaan sijil kursus adalah untuk menggantikan penggunaan sijil manual yang tidak dikeluarkan oleh Akademi JPJ lagi
 
-
 Klik pada pengurusan siri kursus.
 
 ![pengurusansirikursus](img/sijilkursus.png)
 
-Kemudian klik pada Menu Jana Sijil Kehadiran
+Kemudian klik pada Menu Jana Sijil Kehadiran. Maklumat seperti berikut akan dipaparkan
 
 ![janasijil](img/janasijil.png)
 

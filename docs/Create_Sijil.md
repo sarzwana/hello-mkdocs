@@ -1,6 +1,6 @@
 # Kaedah Jana Sijil Kursus (Kemaskini)
 
-## Pengenalan 
+## Pengenalan Sijil Akademi
 
 Penjanaan sijil kursus adalah untuk menggantikan penggunaan sijil manual yang tidak dikeluarkan oleh Akademi JPJ lagi
 

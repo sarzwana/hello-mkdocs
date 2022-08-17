@@ -1,8 +1,8 @@
-# Kaedah Jana Sijil Kursus
+# Kaedah Jana Sijil Kursus (Kemaskini)
 
 ## Pengenalan 
 
-Penjanaan sijil kursus adalah untuk menggantikan penggunaan sijil manual yang tidak dikeluarkan oleh Akademi lagi
+Penjanaan sijil kursus adalah untuk menggantikan penggunaan sijil manual yang tidak dikeluarkan oleh Akademi JPJ lagi
 
 
 Klik pada pengurusan siri kursus.
